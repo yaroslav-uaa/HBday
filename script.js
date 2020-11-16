@@ -1,5 +1,5 @@
-var a = prompt("Enter UserName");
-var b = prompt("Enter password");
+let a = prompt("Enter UserName");
+let b = prompt("Enter password");
 if (a == "Marinessa" && b == "15111994") {
   window.location.href = "start.html";
 } else {
